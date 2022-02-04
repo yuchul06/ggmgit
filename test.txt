@@ -18,4 +18,4 @@ git commit -m "최초의 커밋입니다"
 git checkout 넘버4개 (앞자리)
 git checkout master <= 마스터 브랜치의 최신버전으로 돌아갈거임
 
-아무말이나
+아무말이나asd
