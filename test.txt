@@ -1,0 +1,14 @@
+대충 아무코드를
+쳤다
+
+저장 단축키는 컨+S
+
+컨트롤 + ~ <---- 터미널 창
+git init : 해당 폴더를 깃에서 관리하는 폴더로 초기화하는 명령
+
+git config --global user.name "yuchul06
+git config --global user.email "yuchul06@gmail.com"
+
+git add text.txt
+
+git commit -m "최초의 커밋입니다"
